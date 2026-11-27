@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xUltimateZerox Stefano Fiore</h1>
+<h1 align="center">Hi 👋, I'm xUltimateZerox </h1>
 <h3 align="center">I'm currently a computer science student at the University of Bari Aldo Moro (UNIBA) and I love programming and cybersecurity.</h3>
 
 <h3 align="left">Connect with me:</h3>
